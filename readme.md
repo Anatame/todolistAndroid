@@ -1,0 +1,1 @@
+This project contains basics of Sql CRUD, Recyclerview and alertDialog implementation.
